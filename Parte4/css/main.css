@@ -11,20 +11,24 @@
     background-color: yellow;
     width: 200px;
     height: 200px;
-    float: right;
+    
 }
 
 .dos{
     background-color: cyan;
     width: 200px;
     height: 200px;
-    float: right;
+    
 }
 
 .tres{
     background-color: magenta;
     width: 200px;
     height: 200px;
-    float: right;
+    
+}
+
+.padre > div{
+    float: left;
 }
 

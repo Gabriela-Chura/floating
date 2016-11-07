@@ -8,23 +8,25 @@
     background-color: yellow;
     width: 200px;
     height: 200px;
-    float:left;
-    float:right;
+  
+   
 }
 
 .dos{
     background-color: cyan;
     width: 200px;
     height: 200px;
-    float:left;
-    float:right;
+  
+    
 }
 
 .tres{
     background-color: magenta;
     width: 200px;
     height: 200px;
-    float:left;
-    float:left;
+    
+}
+
+.padre > div{
     float:right;
 }
