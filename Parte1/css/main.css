@@ -1,0 +1,23 @@
+/* Pon tu código css aqui */
+.padre{
+    border: 2px solid black;
+    
+}
+
+.uno{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+}
+
+.dos{
+    background-color: cyan;
+    width: 200px;
+    height: 200px;
+}
+
+.tres{
+    background-color: magenta;
+    width: 200px;
+    height: 200px;
+}
